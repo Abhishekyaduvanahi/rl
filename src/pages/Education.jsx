@@ -30,7 +30,7 @@ const Education = () => {
         {/* first experience */}
         <div className="flex flex-col w-auto m-5">
           <p
-            className={`text-greenColor text-[20px] border p-2 w-[48%] ${
+            className={`text-greenColor text-[20px] border p-2 w-[58%] ${
               isVisible
                 ? "animate-border-gradient border-greenColor"
                 : "border-greenColor"
