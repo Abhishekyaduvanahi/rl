@@ -49,7 +49,7 @@ const Contact = () => {
 
         {/* for the right person */}
         <div className="md:w-[50%] flex flex-col justify-center items-center bg-blueColor mb-[20px] m-4 rounded-3xl">
-          <p className="text-[30px] mb-[40px] transition-transform duration-300 ease-in-out animate-bounce ">
+          <p className="text-[30px] mb-[40px] transition-transform duration-300 ease-in-out animate-bounce mt-8 ">
             GET TOUCH ME ?
           </p>
           <input
