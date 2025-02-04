@@ -7,6 +7,7 @@ import Home from "./pages/Home";
 import About from "./pages/About";
 import Footer from "./components/Footer";
 import Education from "./pages/Education";
+import Project from "./pages/Project";
 
 const Section = ({ name, children }) => (
   <Element name={name}>{children}</Element>
@@ -23,7 +24,10 @@ const App = () => {
         <About />{" "}
       </Section>
       <Section name="education">
-        <Education />{" "}
+        <Education />
+      </Section>
+      <Section name="projects">
+        <Project />
       </Section>
       {/* <Section name="portfolio">📸 Portfolio</Section> */}
       <Section name="contact">

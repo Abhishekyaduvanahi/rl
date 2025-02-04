@@ -12,7 +12,7 @@ export const about={
 // Links 
 
 export const Links={
-  linkdin:"https://www.linkedin.com/in/",
+  linkdin:"https://www.linkedin.com/in/radhika-lahre-852991236/",
   github:"https://github.com/Radhika-Lahre",
   twitter:"https://x.com/",
   instagram:"https://www.instagram.com/",
@@ -86,7 +86,7 @@ export const college={
   address: " ",
   percentage:"",
   course:"",
-  duration:"2024"
+  duration:"2022"
 }
 
 // Entered postGraduation Detail 
@@ -96,7 +96,7 @@ export const postCollege={
   address: " ",
   percentage:"72%",
   course:"",
-  duration:"2022"
+  duration:"2024"
 }
 
 
