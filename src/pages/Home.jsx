@@ -42,7 +42,7 @@ const Home = () => {
   return (
     <div
       ref={sectionRef}
-      className="flex w-full h-screen/2 flex-col md:flex-row p-8 nd:p-12 items-center justify-center md:mt-[10%] mt-[25%] text-white"
+      className="flex w-full h-[70vh] flex-col md:flex-row p-8 nd:p-12 items-center justify-center md:mt-[10%] mt-[25%] text-white"
     >
       <div className="md:w-[60%]">
         {/* Typing Effect (Only When Visible) */}
