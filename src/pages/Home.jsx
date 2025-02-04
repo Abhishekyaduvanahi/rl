@@ -10,16 +10,16 @@ const Home = () => {
       {/* className="min-h-screen flex items-center justify-center text-3xl font-bold" */}
       {/* 
       // this is the main container  */}
-      <div className=" flex w-full  flex-col md:flex-row p-8  items-center justify-center md:mt-[10%] mt-[25%] text-white">
+      <div className=" flex w-full  flex-col md:flex-row p-2  items-center justify-center md:mt-[10%] mt-[25%] text-white">
         {/* //this is for text */}
-        <div className="md:w-[70%] ">
+        <div className="md:w-[60%] ">
           {/* heading */}
-          <h1 className=" flex md:text-[80px] text-[50px] font-bold items-center justify-center ">
+          <h1 className=" flex md:text-[80px] text-[40px] font-bold items-center justify-center ">
             HI, I'M RADHIKA LAHRE
           </h1>
 
           {/* paragrah */}
-          <p className="text-large w-full text-slate-300">
+          <p className="text-large w-auto text-slate-300">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, dicta
             quam. Nobis, perspiciatis maiores alias ex eaque voluptates fugiat
             nesciunt hic dolores ipsam aliquam eligendi asperiores eveniet,
@@ -33,7 +33,7 @@ const Home = () => {
               Dowload CV
             </button>
             <button className="mr-4 bg-greenColor hover:bg-blueColor p-2 rounded-lg">
-              Watch the video{" "}
+              Watch the video
             </button>
           </div>
         </div>

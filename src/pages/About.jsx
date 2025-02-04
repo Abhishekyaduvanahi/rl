@@ -38,7 +38,7 @@ const About = () => {
 
       {/* Increase the size of the icon */}
       {/* <CgProfile size={200} className=" mt-8" /> */}
-      <p className="p-2 md:w-[60%] text-[60px] text-white font-serif font-bold flext justify-center items-center">
+      <p className="p-2 md:w-[60%] text-[30px] text-white font-serif font-bold flext justify-center items-center">
         Transforming visions into exceptional portfolios.
       </p>
       <p className="p-2 md:w-[70%] ">{about.detail}</p>
